@@ -1,0 +1,2 @@
+# Python
+Difrakcija svjetlosti - FFT
